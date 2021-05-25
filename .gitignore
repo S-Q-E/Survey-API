@@ -1,4 +1,4 @@
 db.sqlite3
 my_project/__pycache__
 polls/__pycache__
-polls/templates
+polls/migrations/__pycache__
